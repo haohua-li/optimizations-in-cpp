@@ -12,5 +12,5 @@ This learning notes will heavily based on the following references.
   - 3_The microarchitecture of Intel, AMD and VIA CPUs: An optimization guide for assembly programmers and compiler makers
   - 4_Instruction tables: Lists of instruction latencies, throughputs and micro-operation breakdowns for Intel, AMD and VIA CPUs 
   - 5_Calling conventions for different C++ compilers and operating systems
-- Studying Agner Fog video series by Creel (youtube.com)
+- Studying Agner Fog video series by Creel - [youtube link](https://www.youtube.com/watch?v=ee9_HgShh8s)
 - [Agner Fog编写的优化手册_wuhui_gdnt的专栏-CSDN博客](https://blog.csdn.net/wuhui_gdnt/category_7027658.html)
